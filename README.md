@@ -182,7 +182,10 @@ SELECT * FROM account;
 * Hibernate handles table creation and schema updates automatically.
 * Error handling for negative balances and invalid input is included.
 
----
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/05e6e5f2-1ff8-42ed-ba88-b58c53253ddd" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/eb6ba5a7-3e24-43e8-9040-f7e07a103419" />
+
+
 
 ## 📬 Contribution
 
